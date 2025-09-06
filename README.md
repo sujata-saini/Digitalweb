@@ -37,7 +37,7 @@ DigitalMarketingAgency/
 ├── styles.css          # All custom styling
 ├── main.js             # All JavaScript functionality
 └── README.md           # Documentation for the project
-```bash
+
 
 
 
