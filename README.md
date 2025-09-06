@@ -2,7 +2,7 @@
 
 A modern, responsive **Digital Marketing Website** built with the latest web technologies.  
 This project showcases services, case studies, testimonials, and contact options to help businesses grow their online presence.
-<pre><b>Demo Link<b/>: https://sujata-saini.github.io/Digitalweb/</b>pre>
+<b>Demo Link<b/>: https://sujata-saini.github.io/Digitalweb/</b>
 
 ---
 
