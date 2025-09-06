@@ -28,17 +28,16 @@ This project showcases services, case studies, testimonials, and contact options
 ---
 
 ## 📂 Project Structure
-```bash
-.
-├── public/            # Static assets (images, favicon, etc.)
-├── src/               # Main source code
-│   ├── components/    # Reusable UI components
-│   ├── pages/         # Website sections (Home, Services, Contact, etc.)
-│   ├── styles/        # CSS / SCSS files
-│   └── App.js         # Entry point (if React)
-├── index.html
-├── package.json
-└── README.md
+```bash             
+DigitalMarketingAgency/
+│
+├── assets/             # Images, icons, logos, fonts, videoss/        
+│
+├── index.html          # Main entry HTML file
+├── styles.css          # All custom styling
+├── main.js             # All JavaScript functionality
+└── README.md           # Documentation for the project
+
 
 
 
